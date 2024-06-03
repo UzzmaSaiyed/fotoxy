@@ -1,4 +1,4 @@
-# fotoxy2
+# fotoxy
 
 A new Flutter project.
 
